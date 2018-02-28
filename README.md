@@ -1,6 +1,6 @@
 # MemoryBasedBot
 
-A memroy based bot with lua script binding for the MMORPG Kingdom Of The Wind client version 5.5
+A memoryy based bot with lua script binding for the MMORPG Game "Kingdom Of The Wind" (client version 5.5)
 
 Used lua ver. 5.3
 
