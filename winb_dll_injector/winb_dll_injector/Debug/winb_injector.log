@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (winb_dll_injector.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  winb_injector.cpp
+c:\users\1z3r0\source\repos\winb_injector\winb_injector\winb_injector.cpp(140): warning C4101: 'hf': unreferenced local variable
+  winb_injector.vcxproj -> C:\Users\1z3r0\source\repos\winb_injector\Debug\winb_injector.exe

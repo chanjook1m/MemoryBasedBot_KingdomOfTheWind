@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (winb.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Macro.cpp
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.h(10): warning C4091: 'static ': ignored on left of 'Macro::Point' when no variable is declared
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(78): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(84): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(168): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(176): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(181): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(187): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(187): warning C4309: 'initializing': truncation of constant value
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(189): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(190): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(202): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(202): warning C4309: 'initializing': truncation of constant value
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(203): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(204): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(206): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(207): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(248): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(256): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(256): warning C4309: 'initializing': truncation of constant value
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(257): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(258): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(259): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(260): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(353): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(402): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(409): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(409): warning C4309: 'initializing': truncation of constant value
+  Client.cpp
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.h(10): warning C4091: 'static ': ignored on left of 'Macro::Point' when no variable is declared
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\client.cpp(80): warning C4101: 'nameMsg': unreferenced local variable
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\client.cpp(81): warning C4101: 'y': unreferenced local variable
+  Generating Code...
+c:\users\1z3r0\desktop\올리기\winb_hack\winb_hack\macro.cpp(308): warning C4715: 'Macro::sell_exp': not all control paths return a value
+  winb_hack.vcxproj -> C:\Users\1z3r0\Desktop\올리기\winb_hack\Debug\winb_hack.dll

@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (winb_dll_injector.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  winb_injector.cpp
+c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\winb_injector.cpp(140): warning C4101: 'hf': unreferenced local variable
+  Generating Code...
+  Compiling...
+  dll_inject.cpp
+c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(80): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const wchar_t *'
+  c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(80): note: consider using '%ls' in the format string
+  c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(80): note: consider using '%lls' in the format string
+  c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(80): note: consider using '%Ls' in the format string
+  c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(80): note: consider using '%ws' in the format string
+  Generating Code...
+c:\users\1z3r0\desktop\올리기\winb_dll_injector\winb_dll_injector\dll_inject.cpp(84): warning C4715: 'FindPID': not all control paths return a value
+  winb_dll_injector.vcxproj -> C:\Users\1z3r0\Desktop\올리기\winb_dll_injector\Debug\winb_injector.exe
