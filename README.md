@@ -6,5 +6,5 @@ A memory based bot with lua script binding for the MMORPG Game "Kingdom Of The W
 
 > [How to install lua manually on Windows & on your project](https://www.youtube.com/watch?v=X5D_h2X8LCk)
 
-## Copied these filed from Angelius Memory based bot project
+## Copied these files from Angelius Memory based bot project
 ASM.h, ASM.cpp, bytebuffer.h, bytebuffer.cpp
